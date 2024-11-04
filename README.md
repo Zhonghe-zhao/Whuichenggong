@@ -7,7 +7,9 @@
 - 欢迎大家随时交流学习问题
 - 😄  对行业的每个领域都非常感兴趣！我爱IT！
 - ⚡ 顺其自然，做好自己，没有终点！
-
+我的个人博客：[ http](https://whuichenggong.github.io/)
+正在开发中~~~
+祝各位一切顺利！
 <!---
 Passion never fails
 --->
