@@ -22,4 +22,3 @@ Passion never fails
 
 ![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Whuichenggong&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
