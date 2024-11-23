@@ -1,3 +1,9 @@
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Whuichenggong&theme=cobalt2&show_icons=true)
+
+
+![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Whuichenggong&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 - 👋 Hi, 大家好，欢迎来到赵忠赫的主页
 - 我的母校：沈阳工业大学
 - 👀 我是一名主要对后端开发进行学习的一名学生
