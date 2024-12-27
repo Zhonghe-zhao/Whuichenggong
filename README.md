@@ -14,6 +14,9 @@
 我的个人博客：
 
   [blog](https://whuichenggong.github.io/)
+
+我的2023.9-2024总结
+[2023.9-2024](https://github.com/Whuichenggong/2024/blob/main/README.md)
   
 祝各位一切顺利！
 <!---
