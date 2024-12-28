@@ -1,20 +1,38 @@
 
-# 欢迎来到我的 GitHub 主页
-- 我的母校：沈阳工业大学
+# Hi there 👋, I'm Whuichenggong
 
-- 💞️ 目前是处于个人学习状态
-- 📫 我的邮箱 zhaozhonghe40@gmail.com or 3041322213@qq.com
-- 欢迎大家随时交流学习问题
-- 😄  对行业的每个领域都非常感兴趣！我爱IT！
-- ⚡ 顺其自然，做好自己，没有终点！       ![壁纸](https://github.com/Whuichenggong/2024/blob/main/2024_pictures/壁纸.jpg)
+![Profile Views](https://komarev.com/ghpvc/?username=Whuichenggong&color=blue)
 
-我想在github记录我的每一天，让时间的痕迹更加具象，留下学习的痕迹，留下生活的痕迹！
+## About me
+- 🌏 I am Whuichenggong from China.
+- 🎓 Currently pursuing my studies in backend development.
+- 🌱 Currently learning Go, Docker, and API development.
+- 🤝 Looking to collaborate on open-source projects.
+- 💬 Ask me about Backend, Databases, and APIs.
+
+## Languages and Tools
+
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+## I am into
+- 💻 Open-source projects
+- 📊 Data Science
+- 🚀 Exploring cloud technologies
+
+- 📫 my email: zhaozhonghe40@gmail.com | 3041322213@qq.com
      
-我的个人博客：
+
+I want to record my every day on GitHub, making the traces of time more concrete, leaving traces of learning and life!
+     
+myblog：
 
   [blog](https://whuichenggong.github.io/)
 
-我的2023.9-2024总结
+My summarize about 2023.9-2024
 
 [2023.9-2024](https://github.com/Whuichenggong/2024/blob/main/README.md)
   
