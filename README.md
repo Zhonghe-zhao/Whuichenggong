@@ -25,15 +25,6 @@
 
 ---
 
-##  GitHub 数据统计
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Whuichenggong&theme=merko&show_icons=true" alt="Whuichenggong 的 GitHub 统计" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Whuichenggong&show_icons=true&theme=tokyonight" alt="Whuichenggong 的提交连击记录" width="48%" />
-</p>
-
----
-
 ## 一起交流！
 
 <p align="left">
