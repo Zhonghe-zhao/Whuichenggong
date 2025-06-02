@@ -4,7 +4,6 @@
 
 [我的简历](https://github.com/Zhonghe-zhao/-/blob/main/README.md)
 
-我记录了学习与生活的点滴，欢迎查看：
 [我的博客](https://blog.zhaozhonghe.me)
 
 ---
@@ -13,7 +12,7 @@
 
 * 我正在记录每日学习与成长，希望让时间的痕迹更加**具体而有意义**。
 * 查看我的 **2023.9-2024 年度总结**：
-  [👉 我的年度回顾](https://github.com/Whuichenggong/2024/blob/main/README.md)
+  [我的年度回顾](https://github.com/Whuichenggong/2024/blob/main/README.md)
 
 ---
 
